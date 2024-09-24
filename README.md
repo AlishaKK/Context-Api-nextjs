@@ -1,4 +1,5 @@
 **What is the Context API?**
+
 The Context API is a feature in React that allows you to share data (state) across multiple components without having to pass props down through every level of the component tree. It provides a way to manage global state efficiently, making it particularly useful for state that needs to be accessed by many components, such as user authentication info, themes, or shopping cart contents.
 
 **Why Use the Context API?**
